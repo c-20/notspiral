@@ -1,0 +1,7 @@
+	ntdll.dll => /c/WINDOWS/system32/ntdll.dll (0x7c900000)
+	kernel32.dll => /c/WINDOWS/system32/kernel32.dll (0x7c800000)
+	GDI32.dll => /c/WINDOWS/system32/GDI32.dll (0x77f10000)
+	USER32.dll => /c/WINDOWS/system32/USER32.dll (0x7e410000)
+	msvcrt.dll => /c/WINDOWS/system32/msvcrt.dll (0x77c10000)
+	libgcc_s_sjlj-1.dll => /z/b1/2globeeverywhere/spiral/libgcc_s_sjlj-1.dll (0x6cec0000)
+	libstdc++-6.dll => /z/b1/2globeeverywhere/spiral/libstdc++-6.dll (0x6fc40000)
